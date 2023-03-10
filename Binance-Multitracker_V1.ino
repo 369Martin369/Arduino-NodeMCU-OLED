@@ -37,13 +37,6 @@ const char* type = "MARKET";  // The type of order to place
 const char* timeInForce = "GTC";  // The time in force for the order
 const unsigned long recvWindow = 5000;  // The receive window for the order
 
-// // Trading state variables
-// double last_price_MLN = 0.0;
-// double last_price_MATIC = 0.0;
-// double last_price_BNB = 0.0;
-// double last_price_BTC = 0.0;
-// double last_price_ADA = 0.0;
-
 unsigned long lastUpdateTime = 0;
 
 // WiFi network credentials
