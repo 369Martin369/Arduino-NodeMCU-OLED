@@ -40,10 +40,10 @@ const unsigned long recvWindow = 5000;  // The receive window for the order
 unsigned long lastUpdateTime = 0;
 
 // WiFi network credentials
-#define WIFI_SSID_2 "MartinMobile"
-#define WIFI_PASSWORD_2 "Maja123123"
-#define WIFI_SSID_1 "NDF-Superfast"
-#define WIFI_PASSWORD_1 "keineskeines"
+#define WIFI_SSID_2 "xxxx"
+#define WIFI_PASSWORD_2 "xxxxx"
+#define WIFI_SSID_1 "xxxx"
+#define WIFI_PASSWORD_1 "xxxxx"
 
 
 
